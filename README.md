@@ -1,4 +1,4 @@
-Hi, I'm Cphayim(/kfeɪiː/), a front-end developer from China.
+Hi, I'm Cphayim (pronounced /kfeɪiː/), a front-end developer from China.
 
 ### Projects
 
