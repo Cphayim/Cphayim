@@ -12,7 +12,6 @@ I'm Cphayim(/k'feɪiː/), a frontend dever.
 - 🎨 Hobbies: traveling, photography, and games
 
 <br />
-<br />
 
 <a href="https://cphayim.me">
   <img align="left" alt="lionad-art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />
@@ -27,3 +26,4 @@ I'm Cphayim(/k'feɪiː/), a frontend dever.
   <img align="left" alt="Cphayim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 
+<br />
