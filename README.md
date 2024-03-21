@@ -6,8 +6,8 @@ Welcome to my GitHub page! 🎉🎉🎉
 
 I'm Cphayim(/k'feɪiː/), a frontend dever.
 
-- 🛠 Langs: TypeScript(main) & Python(less) & Rust(learning)
-- 💼 Stacks: Vue(main) & React(light)
+- 🛠 Langs: TypeScript(main) & Python & Rust(learning)
+- 💼 Stacks: Vue(main) & React
 - 💻 OS: macOS(productivity) + Windows(entertainment)
 - 🎨 Hobbies: traveling, photography, and games
 
